@@ -13,6 +13,12 @@ public class happyB20 {
 
         int sum1 = c + d;
         System.out.println(sum1);
+
+        int e = 13;
+        int f = 23;
+
+        int sum2 = e + f;
+        System.out.println(sum2);
     }
     }
 }
