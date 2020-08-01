@@ -21,4 +21,4 @@ public class happyB20 {
         System.out.println(sum2);
     }
     }
-}
+
